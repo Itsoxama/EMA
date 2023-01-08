@@ -1,0 +1,1 @@
+export var tz='http://localhost:4000/api'
